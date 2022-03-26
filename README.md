@@ -12,5 +12,6 @@
 * git checkout - Troca de branch
 * git merge - Adiciona conteúdo de uma branch em outra
 
-## Link muito legal com conteúdo completo sobre os comandos git
-https://comandosgit.github.io/
+## Links que utilizei para o meu aprendizado
+* https://comandosgit.github.io/
+* https://www.youtube.com/watch?v=mUjV22KXSQs&list=WL&index=6&ab_channel=LKCAMP
